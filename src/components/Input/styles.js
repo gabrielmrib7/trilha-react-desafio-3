@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const InputContainer = styled.div`
     width: 100%;
-    max-width: 275px;
+    
     height: 30px;
     border-bottom: 1px solid #3B3450;
 
@@ -22,4 +22,12 @@ export const InputText = styled.input`
     border: 0;
     height: 30px;
     
+`
+
+export const ErrorText = styled.p`
+color: #FF0000;
+font-family: 'Open Sans';
+font-size:12px;
+margin-bottom:5px;
+
 `

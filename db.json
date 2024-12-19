@@ -1,6 +1,34 @@
 {
-    "users": [
-      { "id": 1, "name": "Pablo", "email": "pablo@email.com", "senha":"123456" },
-      { "id": 2, "name": "José", "email": "jose@email.com", "senha":"123456" }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "name": "Pablo",
+      "email": "pablo@email.com",
+      "senha": "123456"
+    },
+    {
+      "id": 2,
+      "name": "José",
+      "email": "jose@email.com",
+      "senha": "123456"
+    },
+    {
+      "name": "a",
+      "email": "1111",
+      "senha": "1111",
+      "id": 3
+    },
+    {
+      "name": "Gabriel",
+      "email": "gabrielmrib@email.com",
+      "senha": "miranda",
+      "id": 4
+    },
+    {
+      "name": "Gabriel",
+      "email": "gabrielmrib2@email.com",
+      "senha": "miranda",
+      "id": 5
+    }
+  ]
 }

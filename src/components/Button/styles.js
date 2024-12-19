@@ -7,6 +7,7 @@ export const ButtonContainer = styled.button`
 
     color: #FFFFFF;
     padding: 2px 12px;
+    margin: 15px 0 15px;
     min-width: 120px;
     width: 100%;
     
@@ -25,6 +26,7 @@ export const ButtonContainer = styled.button`
             width: calc(100% + 10px);
             height: calc(100% + 10px);
             border-radius: 22px;
+            
         }
     `}
 `
